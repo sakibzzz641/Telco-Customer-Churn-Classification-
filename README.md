@@ -16,7 +16,7 @@ Author: **MD. Sakib Al Hasan** — Data Science Portfolio Project
 
 **Summary.** This project builds a churn scorer on the classic IBM Telco dataset — 7,043 customers, 21 columns. Six models (Logistic Regression, KNN, Decision Tree, Random Forest, Gradient Boosting, XGBoost) were compared inside a leakage-safe SMOTE pipeline. The "boring" model won: a tuned **Logistic Regression** hits **0.844 ROC-AUC** on the unseen test set, catches **77% of real churners** (recall), and — because it's linear — every single prediction can be explained to a business stakeholder coefficient-by-coefficient.
 
-**---**
+---
 
 ## 1. Problem Statement
 
