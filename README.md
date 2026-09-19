@@ -181,17 +181,3 @@ Telco-customer-churn/
 
 ---
 
-## requirements.txt
-
-```txt
-pandas==3.0.3
-numpy==2.2.6
-scipy==1.18.0
-scikit-learn==1.9.0
-matplotlib==3.11.0
-seaborn==0.13.2
-imbalanced-learn==0.14.2
-xgboost==3.4.0
-statsmodels==0.15.0
-joblib==1.5.3
-```
